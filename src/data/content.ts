@@ -3,8 +3,8 @@
    ──────────────────────────────────────────────────────────── */
 
 export const brand = {
-  name: "Topnotch Technology",
-  short: "Topnotch",
+  name: "TopNotch Technology",
+  short: "TopNotch",
   city: "Jaipur",
   tagline: "Empowering global growth through technology solutions.",
 };
